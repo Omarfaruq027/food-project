@@ -1,0 +1,80 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+/* header-part */
+h1{
+    font-size: 35px;
+   
+}
+.h2{
+    font-size: 27px;
+  
+}
+.text-color{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+ 
+}
+.div-1{
+    width: 48%;
+    padding-left: 8%;
+    
+}
+.div-1 img{
+    width: 80%;
+}
+.p-color{
+    color: gray;
+}
+.button-1{
+    
+    text-decoration: none;
+    padding: 10px 35px;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+    color: papayawhip;
+    border-radius: 25px;
+    line-height: 4.5;
+}
+/* header-part */
+
+/* middle-part */
+.m-fixing{
+    margin: 50px;
+}
+.middle-part{
+    background-image:url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+/* middle-part */
+/* last-part */
+.l-div{
+    display: flex;
+    justify-content: space-between;
+  
+}
+.reci-div{
+    text-align: center;
+}
+.div-2{
+    text-align: center;
+    border: 5px solid rgb(223, 219, 213);
+    border-radius: 10px;
+    box-shadow: 10px 15px 25px rgb(224 210 210);
+    width: 40%;
+    margin: 2%;
+    padding: 4%;
+    padding-left: 42px;
+}
+.div-2 img{
+    width: 75%;
+}
+.footer{
+    background-color: black;
+    margin: 20px;
+    padding: 10px;
+}
+/* last-part */
+
